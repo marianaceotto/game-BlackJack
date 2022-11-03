@@ -1,2 +1,2 @@
 # javascript-pure
-Review JS
+Jogo BlackJack - Review JS
