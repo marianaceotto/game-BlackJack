@@ -28,3 +28,4 @@ Review JS
 - Quando o jogador parar de comprar cartas (Ter clicado cancel ao receber a pergunta "Deseja comprar mais uma carta?") e tiver a pontuação menor ou igual a 21, inicia-se a rodada do computador. Ele deverá comprar cartas até que sua pontuação seja igual ou superior a do usuário. Veja abaixo, uma sequência possível de mensagens mostradas ao usuário.
 
 - Se a pontuação do usuário for maior que 21, ele perde o jogo. Se a pontuação do computador for maior que 21 (e a do usuário não for), o usuário ganha o jogo.  Se as pontuações do usuário e do computador forem iguais, o jogo termina em empate.
+
